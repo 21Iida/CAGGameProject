@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 578a95bd6eee86849bc866f8010625df, type: 3}
+  m_Name: EnemyParams
+  m_EditorClassIdentifier: 
+  paramMasters:
+  - paramNormalEnemy: {fileID: 11400000, guid: 088f44b7ac5957d4394c61fcaa647ade, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: 40888a35330136947a79f3eddca2b7eb, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: 8a634282bbe400d43957cb89901ff5d3, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: 881d37756a1148647881def7710f036a, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: af71df2e8b29d3b43af68aef670dedab, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: 4b4bb1908c75f99418e9dc7fa3fc1206, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: 1711ca51dcabec8428fc88977781e818, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: 25dcf91faa6083a4591d5e5f179b362b, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: 20fb0509b28ed304fbea123fda8f7d69, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: af5b04c4a031e9c4fba9a8a476af4121, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: 69c85de12f8b86e4b90c85742d729014, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: 8acd3842a19b51d4a88c83243806a86d, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: 5976f5c14d980854e8b39eaea41f3128, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}
+  - paramNormalEnemy: {fileID: 11400000, guid: de945837d8b4eb04b896d7998ea731e2, type: 2}
+    enemyPrefab: {fileID: 0}
+    copiedPrefab: {fileID: 0}

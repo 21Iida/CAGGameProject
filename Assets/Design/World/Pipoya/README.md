@@ -1,0 +1,1 @@
+Copyright 2018 ぴぽや (https://pipoya.net/). All Rights Reserved.

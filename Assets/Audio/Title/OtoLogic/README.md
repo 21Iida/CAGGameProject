@@ -1,0 +1,1 @@
+Copyright 2018 OtoLogic (https://otologic.jp/). All Rights Reserved.
